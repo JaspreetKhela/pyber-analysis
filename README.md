@@ -49,10 +49,10 @@ _____
 _____
 
 ### General Trends
-From Table 4, we can observe that the average fare per ride and per driver decreases from rural to suburban to urban areas. This demonstrates that the urban ride-sharing services are more affordable for customers, most likely due to the higher population density in urban areas in comparison to rural and suburban areas.
+From Table 4, we can observe that the average fare per ride and per driver decreases from rural to suburban to urban areas. This demonstrates that the urban ride-sharing services are more affordable for customers, most likely due to the higher population density in urban areas in comparison to rural and suburban areas. However, the total number of drivers exceeds the total number of rides in urban areas (as can be seen in Table 4), which means that there may not be as much of a need for drivers in urban areas as opposed to rural and suburban areas.
 
 ### Urban Ridership
-From the graph above, we can see that the total fares tend increase as one goes from rural to suburban to urban areas; this may be explained by the increase in the population density going from rural to suburban to urban areas, which means that urban areas would have the most rides-sharing customers per unit time. In other words, urban ride-sharing customers generate most of the revenue for the ride-sharing service.
+From the graph above, we can see that the total fares tend increase as one goes from rural to suburban to urban areas; this may be explained by the increase in the population density going from rural to suburban to urban areas, which means that urban areas would have the most rides-sharing customers per unit time. In other words, urban ride-sharing customers generate most of the revenue for the ride-sharing service. Additionally, since the number of total drivers exceeds the number of total rides as can be seen in Table 4, resources from urban ride-sharing services may be over allocated.
 
 ### Suburban Ridership
 We can also notice that urban ridership increases during the summer months most likely to people (both from within and outside of the urban area) engaging in summer vacation activities. This can also be seen with suburban ridership but to a lesser extent.
