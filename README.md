@@ -1,4 +1,4 @@
-# PyBer analysis
+# PyBer Analysis
 
 ## Overview of the Analysis
 The purpose of this analysis is to determine the differences between the total weekly fares by city type for a ride-sharing service. This analysis allows stakeholders to determine how to better serve different city-type demographics.
